@@ -20,11 +20,12 @@
 
 - 📫 How to reach me **anubhavsinha110@gmail.com**
 
-- ⚡ Fun fact **I think I am too emotional and funny.**
+- ⚡ Fun fact **I think I am too emotional and funny. Just google anubhav1603 to check who am i :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/anubhav1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anubhav1603" height="30" width="40" /></a>
+<a href="https://leetcode.com/anubhav1630" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="anubhav1603" height="30" width="90" /></a>
 <a href="https://dev.to/anubhav1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anubhav1603" height="30" width="40" /></a>
 <a href="https://twitter.com/anubhav1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav1603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav1603" height="30" width="40" /></a>
