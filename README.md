@@ -29,7 +29,7 @@
 const anubhav = {
   location: "India 🇮🇳",
   currentWork: ["soulfulrajesh.com (Next.js + NestJS)", "Client web projects"],
-  learning: ["DSA in C++", "Rust", "System Design"],
+  learning: ["Rust", "System Design"],
   askMeAbout: ["Web Dev", "NestJS", "Docker", "TypeScript", "Python"],
   contact: "anubhavsinha110@gmail.com"
 };
