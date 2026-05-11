@@ -31,7 +31,8 @@ const anubhav = {
   currentWork: ["soulfulrajesh.com (Next.js + NestJS)", "Client web projects"],
   learning: ["Rust", "System Design"],
   askMeAbout: ["Web Dev", "NestJS", "Docker", "TypeScript", "Python"],
-  contact: "anubhavsinha110@gmail.com"
+  contact: "anubhavsinha110@gmail.com",
+  website: "https://anubhav1603.dev"
 };
 ```
 
